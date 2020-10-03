@@ -14,6 +14,8 @@
 
 - [Indentifying the license plate number](#indentifying-the-license-plate-number)
 
+- [Note](#Note)
+
 - [Credit](#credit)
 
 
@@ -67,6 +69,11 @@ After these libraries were installed, the object detection API was configured in
 The system utilizes an Optical Character Recognition (OCR) engine called Tesseract. In order to use this engine though Python 3.6, a Python wrapper called Pytesseract had to be installed. Tesseract was downloaded on our machines, and Pytesseract was installed in the Anaconda virtual environment. Despite years of development, Tesseract is not fully accurate. For Tesseract to read images with high accuracy, these images have to be preprocessed. The preprocessing of these images includes techniques such as resizing, cropping, converting the image to grayscale, adding some type of blur to reduce noise in the image, and converting it to a binary image(applying threshold). Text also had to be of a particular size, and at a particular angle for the Tesseract OCR to provide accurate results. After the object detector scanned the image, it created a bounding box around the license plate. The coordinates of this bounding box was then used to create a cropped image. This was done to isolate the license plate from the rest of the image. The cropped image of the license plate was then resized to standardize images before preprocessing. OpenCV was then used to preprocess the image. The image was then read through Pytesseract to produce an output.
 [Back to the top](#Cam-Cop)
 
+### Note
+The trained model used in Cam cop is not located in this repository. If you are planning to do something similar to Cam Cop a model would have to trained using an machine learning API/ software.The model will have to trained on images of the object that it is meant to detect. The code presented in this repository was used to interact with the 
+inference graph produce from training.
+
+[Back to the top](#Cam-Cop)
 ### Credit
 
 Credit goes to [EdjeElectronics](https://github.com/EdjeElectronics) for the [starter code](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
