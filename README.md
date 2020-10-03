@@ -46,7 +46,7 @@ The system utilizes an Optical Character Recognition (OCR) engine called Tessera
 
 Credit goes to [EdjeElectronics](https://github.com/EdjeElectronics) for the [starter code](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
 
-[Back to the top](Cam Cop)
+[Back to the top][Cam Cop]
 
 
 
