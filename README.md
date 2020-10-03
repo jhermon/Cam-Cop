@@ -4,17 +4,17 @@
 ### Table of Contents
 - [Problem Definition](##problem-definition)
 
-- [Proposed Solution](##Proposed Solution)
+- [Proposed Solution](#proposed-solution)
 
-- [Existing Solution](##Existing Solution)
+- [Existing Solution](#existing-solution)
 
-- [Functional Requirements](##Functional Requirements)
+- [Functional Requirements](#functional-requirements)
 
-- [Object Detection](##Object Detection)
+- [Object Detection](#object-detection)
 
-- [Indentifying the license plate number](##Indentifying the license plate number)
+- [Indentifying the license plate number](#indentifying-the-license-plate-number)
 
-- [Credit](###Credit)
+- [Credit](#credit)
 
 
 ## Problem Definition
