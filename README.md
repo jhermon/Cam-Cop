@@ -2,7 +2,7 @@
 ---
 
 ### Table of Contents
-- [Problem Definition](##Problem%20Definition)
+- [Problem Definition](##Problem&#32;Definition)
 
 - [Proposed Solution](##Proposed Solution)
 
@@ -40,6 +40,7 @@ The existing system is a prototype of the system described in the proposed solut
 - Detecting license plate from image.
 - Identifying license plate number.
 - Access Report
+
 [Back to the top](#Cam-Cop)
 
 ---
@@ -56,6 +57,7 @@ Cam Cop uses Tensorflow version 1.5 and the Tensorflow object detection API vers
 - OpenCV - python
 
 After these libraries were installed, the object detection API was configured in the Anaconda virtual environment. We then began training the model. We used an inference graph to determine when the training was completed. The inference graph represents the model which will be used to perform the object detection. The curve on the graph had to fall below a value of 0.05 so as to indicate the sufficient training.
+
 [Back to the top](#Cam-Cop)
 
 ---
