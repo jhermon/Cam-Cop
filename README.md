@@ -2,12 +2,18 @@
 ---
 
 ### Table of Contents
-- [Problem Definition](## Problem Definition)
+- [Problem Definition](##Problem Definition)
+
 - [Proposed Solution](##Proposed Solution)
+
 - [Existing Solution](##Existing Solution)
+
 - [Functional Requirements](##Functional Requirements)
+
 - [Object Detection](##Object Detection)
+
 - [Indentifying the license plate number](##Indentifying the license plate number)
+
 - [Credit](###Credit)
 
 
