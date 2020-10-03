@@ -2,7 +2,7 @@
 ---
 
 ### Table of Contents
-- [Problem Definition](##Problem)
+- [Problem Definition](##Problem%20Definition)
 
 - [Proposed Solution](##Proposed Solution)
 
