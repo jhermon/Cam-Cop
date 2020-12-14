@@ -70,7 +70,7 @@ The system utilizes an Optical Character Recognition (OCR) engine called Tessera
 [Back to the top](#Cam-Cop)
 
 ### Note
-The inference graph created via training used is not located in this repository. If you are planning to try and replicate Cam Cop, a trained model created using an machine learning API/ software is necessary. This model would have to trained on images of the object that it is meant to detect. The code presented in this repository was used to interact with the inference graph produce from training.
+The inference graph created via training used is not located in this repository. If you are planning to try and replicate Cam Cop, a trained model created using an machine learning API/ software is necessary. This model would have to trained on images of the object that it is meant to detect. The code presented in this repository was used to interact with the inference graph produce from training. We created an exe file for this project which allows anyone to download and view the current implementation.
 
 [Back to the top](#Cam-Cop)
 ### Credit
