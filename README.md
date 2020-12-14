@@ -75,7 +75,7 @@ The inference graph created via training used is not located in this repository.
 [Back to the top](#Cam-Cop)
 ### Credit
 
-Credit goes to [EdjeElectronics](https://github.com/EdjeElectronics) for the [starter code](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
+Credit goes to [EdjeElectronics](https://github.com/EdjeElectronics) for the [starter code](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10).Code from his Object_detection_image.py script was used to aid us in image detection. His video tutorial was used as a reference for installation of most of the required software and packages. Credit also goes to Tensorflow as its objection detection API (https://www.tensorflow.org/hub/tutorials/object_detection) was used as a key component of this project as it enable objection detection after a model was trained on images we collected.
 
 [Back to the top](#Cam-Cop)
 
