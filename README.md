@@ -76,7 +76,7 @@ The inference graph created via training used is not located in this repository.
 ### Credit
 
 Credit goes to Evan Juras otherwise known as [EdjeElectronics](https://github.com/EdjeElectronics) for the [starter code](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10). His Object_detection_image.py script was used to aid us in image detection. Credit must also be given to [Tensorflow ](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb) and [Dat Tran](https://github.com/datitran/object_detector_app/blob/master/object_detection_app.py
-). Changes to Evan Juras Object_detection_image script were made to suit the needs of our project. Evan Juras video tutorial was used as reference for the installation of most of the required software and packages. The [Tensorflow objection detection API](https://www.tensorflow.org/hub/tutorials/object_detection) is a key component of this project. Changes to EdjeElectronics starter code can be view in the [Pull request](https://github.com/jhermon/Cam-Cop/pull/1/files)
+). Changes to Evan Juras Object_detection_image script were made to suit the needs of our project. Evan Juras's video tutorial was used as reference for the installation of most of the required software and packages. The [Tensorflow objection detection API](https://www.tensorflow.org/hub/tutorials/object_detection) is a key component of this project. Changes to EdjeElectronics starter code can be view in the [Pull request](https://github.com/jhermon/Cam-Cop/pull/1/files)
 
 [Back to the top](#Cam-Cop)
 
